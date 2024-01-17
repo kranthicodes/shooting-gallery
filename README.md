@@ -1,4 +1,6 @@
-## Target shooting game using Love2d and Lua
+## Target shooting game using Love2d and Lua 
+![04](https://github.com/kranthicodes/shooting-gallery/assets/57343520/be5c6271-32c3-4ad5-b6f3-cc7531860946) ![02](https://github.com/kranthicodes/shooting-gallery/assets/57343520/f124a833-5bfe-49f9-8fe8-5bb7f385af10)
+
 
 
 ### MacOs installation
